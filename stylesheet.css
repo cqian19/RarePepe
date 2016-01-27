@@ -1,0 +1,20 @@
+
+div{
+	margin:auto;
+	text-align:center;
+}
+.title{
+	font-size: 60px;
+}
+.container{
+	border: 5px solid #73AD21;
+	border-radius: 10px;
+	border-color: "green";
+	padding: 15px;
+	position: relative;
+}
+
+div.container .pepeimage{
+	margin: auto;
+	border: 2px solid #444442;
+}
